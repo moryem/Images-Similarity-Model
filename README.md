@@ -7,6 +7,4 @@ DeepModel.py - Class of the image similarity model; architecture, training, test
 
 main.py -	Main file, which creates an object of the similarity model using DeepModel.py. Train and test using this file
 
-comparison.py -	Comparison of the model results to MSE and SSIM
-
-web_comparison.py -	Comparison of the model results to the IMGonline website
+comparison.py -	Comparison of the model results to MSE DSSIM and IMGonline website
